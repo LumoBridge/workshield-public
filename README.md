@@ -23,7 +23,8 @@ WorkShield is a neutral documentation and evidence-preservation platform designe
 ----------------------------------------------------------
 ### SECURITY ARCHITECTURE, ENTERPRISE FAQ, AUDIT READINESS
 ----------------------------------------------------------
-- Enterprise sales deck (compliance-safe)
-- Customer trust center content
-- Legal review checklist for new features
+- Security reviews (architecture diagram)
+- Sales conversations (battlecards)
+- Legal review (legal hold statement)
+- Enterprise governance (incident response memo)
 - SOC-2 readiness gap analysis (internal only)
