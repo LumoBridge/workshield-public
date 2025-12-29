@@ -28,3 +28,7 @@ WorkShield is a neutral documentation and evidence-preservation platform designe
 - Legal review (legal hold statement)
 - Enterprise governance (incident response memo)
 - SOC-2 readiness gap analysis (internal only)
+- Board audit committee briefing pack
+- Regulatory inquiry response playbook
+- Customer misuse prevention policy
+- Enterprise contract language alignment template
