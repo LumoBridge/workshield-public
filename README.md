@@ -40,3 +40,5 @@ WorkShield is a neutral documentation and evidence-preservation platform designe
 - Enterprise trust and risk scoring (internal)
 - Feature lifecycle governance in regulated SaaS
 - Employment-law-adjacent platforms
+
+### Regulatory Readiness · AI Risk · Product Ethics · Compliance Investment
