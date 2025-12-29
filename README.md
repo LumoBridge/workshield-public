@@ -1,11 +1,21 @@
 ## 🎥 WorkShield Product Overview
 
-Review the agent’s output again as employer counsel ✅
-Convert the finalized changes into final Jira acceptance tests
-Position the product professionally for enterprise buyers
-Negative tests included for each ticket
-Regression prevention documented
-RFP response templates
-Enterprise onboarding risk memo
-Board-level governance summary
-Public transparency report template
+WorkShield is a neutral documentation and evidence-preservation platform designed to help users record workplace events accurately and consistently over time.
+
+### Platform Foundations
+- Neutral, factual incident documentation
+- Chronological record preservation
+- Evidence integrity and export readiness
+- Accessibility and usability by design
+
+### Quality & Risk Controls
+- Employer-counsel reviewed workflows
+- Neutral language enforcement
+- Regression prevention safeguards
+- Deterministic behavior through acceptance tests
+
+### Enterprise Readiness (In Progress)
+- RFP response templates
+- Enterprise onboarding risk memo
+- Board-level governance summary
+- Public transparency report
