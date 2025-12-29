@@ -19,3 +19,5 @@ WorkShield is a neutral documentation and evidence-preservation platform designe
 - Enterprise onboarding risk memo
 - Board-level governance summary
 - Public transparency report
+
+### SECURITY ARCHITECTURE, ENTERPRISE FAQ, AUDIT READINESS
