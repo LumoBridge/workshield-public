@@ -32,3 +32,11 @@ WorkShield is a neutral documentation and evidence-preservation platform designe
 - Regulatory inquiry response playbook
 - Customer misuse prevention policy
 - Enterprise contract language alignment template
+
+
+### Litigation · Data Retention · Trust Scoring · Feature Deprecation Governance
+- Litigation discovery and e-discovery posture
+- Data retention and deletion governance
+- Enterprise trust and risk scoring (internal)
+- Feature lifecycle governance in regulated SaaS
+- Employment-law-adjacent platforms
