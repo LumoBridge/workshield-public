@@ -17,7 +17,7 @@ WorkShield is a neutral documentation and evidence-preservation platform designe
 ### Enterprise Readiness (In Progress)
 - RFP response templates
 - Enterprise onboarding risk memo
-- 
+- Smoke tests cover every critical page and primary CTA
 - Public transparency report
 
 ----------------------------------------------------------
