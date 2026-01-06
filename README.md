@@ -2,26 +2,19 @@
 
 WorkShield is a neutral documentation and evidence-preservation platform designed to help users record workplace events accurately and consistently over time.
 
-### Platform Foundations
-- Neutral, factual incident documentation
-- Chronological record preservation
-- Evidence integrity and export readiness
-- Accessibility and usability by design
+### What changed
+- Adds server-side access context route and tests
+- Hardens admin-protected layout and dashboard gating
+- Updates service-role usage guard (passing)
+- Adds security/regression documentation and checklists
 
-### Quality & Risk Controls
-- Employer-counsel reviewed workflows
-- Neutral language enforcement
-- Regression prevention safeguards
-- Deterministic behavior through acceptance tests
+### Why
+- Ensure internal admin/tester access works without Stripe
+- Prevent entitlement leaks to non-internal users
+- Lock in CI guardrails before merging to main
 
-### Enterprise Readiness (In Progress)
-- RFP response templates
-- Enterprise onboarding risk memo
-- Smoke tests cover every critical page and primary CTA
-- Public transparency report
+### Safety checks
+- Service role usage guard passes
+- Admin bypass is server-only and env-controlled
+- Non-internal users cannot bypass subscription
 
-----------------------------------------------------------
-### SECURITY ARCHITECTURE, ENTERPRISE FAQ, AUDIT READINESS
-----------------------------------------------------------
-
-### Regulatory Readiness · AI Risk · Product Ethics · Compliance Investment
