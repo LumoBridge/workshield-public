@@ -13,7 +13,7 @@ WorkShield is a neutral documentation and evidence-preservation platform designe
 <br/>
 
 <p align="center">
-  <strong>Product navigation demo (investor preview)</strong>
+  <strong>Product navigation demo (preview)</strong>
 </p>
 
 <p align="center">
