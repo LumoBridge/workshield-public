@@ -1,6 +1,7 @@
 
 <div align="center">
   <img src="docs/assets/screenshots/logo-full.svg.png" alt="WorkShield Logo" width="120" />
+ <img src= docs/assets/screenshots/veydigital_logoT.png" width="120" />
   <h3 style="color:#94a3b8;">Overview</h3>
 </div>
 
