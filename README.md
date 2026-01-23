@@ -1,4 +1,3 @@
-
 <div align="center" style="
   background:#020617;
   border:1px solid #1e293b;
@@ -8,7 +7,7 @@
 ">
 
   <img
-    src="https://raw.githubusercontent.com/Vey-Digital/workshield-public/blob/main/workShield_ExSum-3.png)"
+    src="https://raw.githubusercontent.com/Vey-Digital/workshield-public/main/workShield_ExSum-3.png"
     alt="WorkShield Executive Summary"
     width="90%"
     style="max-width:1200px; display:block; margin:0 auto;"
