@@ -3,7 +3,7 @@
   <img src="public/brand.veydigital_logoT.png" alt="WorkShield Logo" width="120" />
 
   <h1 style="color:#22c55e;">WorkShield</h1>
-  <h3 style="color:#94a3b8;">Investor Overview</h3>
+  <h3 style="color:#94a3b8;">Overview</h3>
 </div>
 
 <br />
