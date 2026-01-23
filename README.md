@@ -119,4 +119,3 @@ This positioning reduces regulatory exposure while addressing a clear documentat
 
 ## Status
 
-//WorkShield is under active development with a focus on **stability, compliance‑safe growth, and enterprise readiness**.
