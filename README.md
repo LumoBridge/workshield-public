@@ -8,7 +8,7 @@
 ">
 
   <img
-    src="https://raw.githubusercontent.com/Vey-Digital/workshield-public/main/assets/workShield_ExSum.png"
+    src="https://raw.githubusercontent.com/Vey-Digital/workshield-public/blob/main/workShield_ExSum-3.png)"
     alt="WorkShield Executive Summary"
     width="90%"
     style="max-width:1200px; display:block; margin:0 auto;"
