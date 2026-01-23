@@ -12,15 +12,12 @@
     width="90%"
     style="max-width:1200px; display:block; margin:0 auto;"
   />
-
-| Capability                  | Managed application data platform (WorkShield) | AWS                         | Azure                         |
-| --------------------------- | ---------------------------------------------- | --------------------------- | ----------------------------- |
-| PostgreSQL database         | Managed PostgreSQL service                     | RDS / Aurora                | Azure Database for PostgreSQL |
-| Authentication              | Integrated authentication service              | Cognito                     | Entra ID / B2C                |
-| File storage                | Integrated object storage                      | S3                          | Blob Storage                  |
-| Row-level security          | Native database-level policies                 | Custom implementation       | Custom implementation         |
-| Realtime                    | Integrated realtime subscriptions              | AppSync / custom            | SignalR                       |
-| Edge / serverless functions | Integrated function runtime                    | Lambda                      | Azure Functions               |
-| Backups                     | Managed automated backups                      | Separate configuration      | Separate configuration        |
-| IAM / access control        | Platform-level access controls                 | IAM service configuration   | IAM service configuration     |
-| Setup time                  | Application-oriented provisioning              | Infrastructure provisioning | Infrastructure provisioning   |
+| Capability                                | WorkShield platform |
+| ----------------------------------------- | ------------------- |
+| Structured incident records               | ✓                   |
+| Evidence integrity (hashing + timestamps) | ✓                   |
+| Role-based access                         | ✓                   |
+| Exportable documentation bundles          | ✓                   |
+| Workspace governance                      | ✓                   |
+| Predictable subscription pricing          | ✓                   |
+| Storage add-ons                           | ✓                   |
