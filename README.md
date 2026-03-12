@@ -1,15 +1,12 @@
 <p align="center">
-  <h1 align="center">WorkShield</h1>
-**Part of VeyDigital**
-
+  <h1 align="center">VeyDigital</h1>
+  <p align="center"><strong>WorkShield</strong></p>
   <p align="center">
-    A documentation platform for workplace incidents, built for clarity, privacy, and review-ready exports.
+    A secure web-based documentation platform for workplace incidents, built for clarity, privacy, controlled access, and review-ready exports.
   </p>
 </p>
 
-# WorkShield
-
-**A documentation platform for workplace incidents, built for clarity, privacy, and review-ready exports.**
+WorkShield is part of **VeyDigital**. It is a secure web-based documentation platform built around structured records, evidence preservation, controlled sharing, and review-ready workflows.
 
 WorkShield is a documentation platform, not a law firm or legal service. It does not provide legal advice, legal representation, or attorney-client privilege. Optional AI assistance is informational only and does not provide legal conclusions or determinations.
 
@@ -75,7 +72,7 @@ Controlled sharing, without the clutter.
 For teams of 2+, Managed Access adds stronger coordination, governance, and onboarding for shared documentation workflows.
 
 - Shared workspace for coordinated documentation
-- Explicit access decisions, nothing assumed or automatic
+- Explicit access decisions, with nothing assumed or automatic
 - Export only when review or disclosure is appropriate
 
 Managed Access is designed for teams that need structure around sensitive documentation without forcing automatic sharing. Teams collaborate in one workspace, while individuals stay in control of what leaves it.
