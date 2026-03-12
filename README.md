@@ -76,7 +76,6 @@ For teams of 2+, Managed Access adds stronger coordination, governance, and onbo
 - Export only when review or disclosure is appropriate
 
 Managed Access is designed for teams that need structure around sensitive documentation without forcing automatic sharing. Teams collaborate in one workspace, while individuals stay in control of what leaves it.
-
 ---
 
 ## Who it is for
