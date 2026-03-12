@@ -1,5 +1,7 @@
 <p align="center">
   <h1 align="center">WorkShield</h1>
+**Part of VeyDigital**
+
   <p align="center">
     A documentation platform for workplace incidents, built for clarity, privacy, and review-ready exports.
   </p>
