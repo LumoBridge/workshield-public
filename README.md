@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./docs/communityCal.png"
+    src="./communityCal.png"
     alt="WorkShield private community preview showing updates, community highlights, and thoughtful member engagement"
     width="100%"
   />
