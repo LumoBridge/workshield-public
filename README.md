@@ -30,7 +30,7 @@ We are currently inviting feedback from people who care about this kind of space
 </p>
 
 <p align="center">
-  <a href="[YOUR-WORKSHIELD-FEEDBACK-LINK](https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey)">
+  <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey">
     <strong>Submit WorkShield Community Feedback →</strong>
   </a>
 </p>
