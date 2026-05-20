@@ -4,12 +4,11 @@
 
 <p align="center">
   <img
-    src="./communityCal.png"
+    src="communityCal.png"
     alt="WorkShield private community preview showing updates, community highlights, and thoughtful member engagement"
     width="100%"
   />
 </p>
-
 
 WorkShield is growing beyond documentation tools. We are preparing a **private community experience** for people who want useful updates, thoughtful resources, and a respectful way to stay connected as the platform moves forward.
 
