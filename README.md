@@ -10,7 +10,6 @@
   />
 </p>
 
-### A private community built with care
 
 WorkShield is growing beyond documentation tools. We are preparing a **private community experience** for people who want useful updates, thoughtful resources, and a respectful way to stay connected as the platform moves forward.
 
@@ -31,7 +30,7 @@ We are currently inviting feedback from people who care about this kind of space
 </p>
 
 <p align="center">
-  <a href="YOUR-WORKSHIELD-FEEDBACK-LINK">
+  <a href="[YOUR-WORKSHIELD-FEEDBACK-LINK](https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey)">
     <strong>Submit WorkShield Community Feedback →</strong>
   </a>
 </p>
